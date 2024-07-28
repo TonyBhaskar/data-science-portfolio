@@ -8,14 +8,8 @@ This repository contains two machine learning projects:
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/yourusername/ml-projects.git
-    cd ml-projects
-    ```
-2. Create a virtual environment and install dependencies:
-    ```bash
-    python -m venv venv
-    source venv/bin/activate  # On Windows use `venv\Scripts\activate`
-    pip install -r requirements.txt
+    git clone https://github.com/TonyBhaskar/data-science-portfolio.git
+    cd data-science-portfolio
     ```
 
 ## Usage
