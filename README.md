@@ -15,17 +15,17 @@ This repository contains two machine learning projects:
 ## Usage
 
 ### Diabetes Prediction
-1. Navigate to the `diabetes-prediction` directory.
+1. Navigate to the `Diabetes Prediction` directory.
 2. Run the Jupyter Notebook:
     ```bash
-    jupyter notebook diabetic_prediction.ipynb
+    jupyter notebook diabetic prediction.ipynb
     ```
 
 ### Spam or Ham Prediction
-1. Navigate to the `spam-ham-prediction` directory.
+1. Navigate to the `spam-or-ham prediction` directory.
 2. Run the Jupyter Notebook:
     ```bash
-    jupyter notebook spam_ham_prediction.ipynb
+    jupyter notebook ML with Loginstic Regression.ipynb
     ```
 
 ## Project Details
