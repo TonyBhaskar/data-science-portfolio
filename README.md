@@ -1,7 +1,7 @@
 # Machine Learning Projects
 
 This repository contains two machine learning projects:
-1. **Diabetes Prediction** using Support Vector Machine (SVM)
+1. **Diabetes Prediction** using Support Vector Machine
 2. **Spam or Ham Prediction** using Logistic Regression
 
 ## Installation
